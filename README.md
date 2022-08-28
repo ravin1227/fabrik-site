@@ -1,3 +1,10 @@
+# How to use
+
+* Viste site, lands on the home page with basic details,
+* To see all models visit the market section from the nav bar,
+* To upload your 3D model visit the upload section, and fill in the details, 
+	you will be redirected to the home page automatically.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
